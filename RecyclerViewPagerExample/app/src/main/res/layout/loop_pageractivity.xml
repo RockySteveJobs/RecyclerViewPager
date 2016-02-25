@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/et_target"
+        android:hint="Target Position"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"/>
+
+    <Button
+        android:id="@+id/btn_target"
+        android:text="Scroll To Target Position"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+
+    <com.samset.recyclerpager.LoopRecyclerViewPager
+        android:id="@+id/viewpager3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:clipToPadding="false"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"/>
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="item_pressed_color">#CCCCCC</color>
+    <color name="item_activated_color">#77CEEE</color>
+    <color name="window_background">#e5e5e5</color>
+
+    <color name="powerplay">#34c9c1</color>
+    <color name="red">#E5225E</color>
+    <color name="grey">#c5d2d8</color>
+    <color name="green">#bada55</color>
+    <color name="pavilion">#9990C6D2</color>
+    <color name="black">#000000</color>
+    <color name="tab_background_selected">#ffffff</color>
+    <color name="tab_background_unselected">#9990C6D2</color>
+    <color name="theme_dark">#157e78</color>
+    <color name="transparent">#9990C6D2</color>
+    <color name="shadow">#555555</color>
+
+</resources>
